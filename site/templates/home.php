@@ -7,6 +7,7 @@
       <p class="lead"><?= $page->introductiontext() ?></p>
       <a href="<?= $site->page('projects') ?>" class="btn btn-primary" role="button" aria-pressed="true">View my work</a>
       <a href="<?= $site->page('about') ?>" class="btn btn-outline-primary" role="button" aria-pressed="true">More about me</a>
+    Hallo
     </div>
     <div class="col-12 col-lg-6">
       <img src="<?= $page->image()->url(); ?>" class="img-fluid" alt="<?= $page->image()->title(); ?>" />
