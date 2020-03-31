@@ -4,22 +4,24 @@ Title: Robin Sinke
 
 Logo:
 
-- robinsinke.jpeg
+- logo_demie.png
 
 ----
 
-Email: r.sinke@hr.nl
+Email: 
 
 ----
 
 Social:
 
 - 
-  platform: Twitter
-  url: https://twitter.com/robzooi
+  platform: Linkedin
+  url: >
+    https://www.linkedin.com/in/démie-van-bentveld-b38891136/
 - 
   platform: LinkedIn
-  url: https://www.linkedin.com/in/robinsinke/
+  url: >
+    https://www.linkedin.com/in/démie-van-bentveld-b38891136/
 
 ----
 
