@@ -1,10 +1,8 @@
-Title: Robin Sinke
+Title: Démie van Bentveld
 
 ----
 
-Logo:
-
-- logo_demie.png
+Logo: - logo_demie.png
 
 ----
 

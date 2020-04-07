@@ -1,20 +1,20 @@
-Title: Designing the perfect onboarding process
+Title: DIY Art direction
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: visual design, Motion design
 
 ----
 
-Duration: September 2019 - Januari 2020
+Duration: Mei 2019 - Juni 2019
 
 ----
 
-Clients: NRC
+Clients: Naam en Faam
 
 ----
 
-Deliverables: Empathymap, Wireframes, Persona's
+Deliverables: Animatie
 
 ----
 
@@ -23,71 +23,15 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Heading 1",
+        "content": "Stop motion DIY Art Direction",
         "id": "_8mgii7n73",
         "type": "h1"
     },
     {
         "attrs": [],
-        "content": "Heading 2",
-        "id": "_mvbw9p8m5",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Heading 3",
-        "id": "_yxpdwjzuk",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Bullet list",
-        "id": "_kv7cm8v9d",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_08ifj03rw",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_kjtk0ujrw",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "This is a quote, don't you think?",
+        "content": "This is a quote, don't you think",
         "id": "_cwnjhuy68",
         "type": "blockquote"
-    },
-    {
-        "attrs": [],
-        "content": "Numbered list",
-        "id": "_nfbhfl436",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_03nv0yced",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_7rfdykoe8",
-        "type": "ol"
     },
     {
         "attrs": [],
@@ -97,30 +41,66 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "id": "_5o4r373i6",
+        "content": "Er zijn tegenwoordig steeds meer mensen die denken dat ze zelf een poster of logo kunnen maken, waardoor dat ze geen geld kost. Tijdens mijn werk bij reclamebureau Naam en Faam wilden wij hier op inspelen. We wilden laten zien wat het verschil is tussen zelf iets smaken of het professioneel te laten doen door een reclamebureau. Daarnaast ook een korte uitleg geven, mocht je dit toch zelf willen doen en hoe je dit dan aan moet pakken.",
+        "id": "_8u6h6fukv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mijn baas Jeroen heeft het concept bedacht en gaf mij de taak om dit concept vorm te geven en uiteindelijk uit te werken. Het doel was om een informatief filmpje te maken hoe een klant zelf aan de slag zou kunnen. De achterliggende boodschap was, dat als ze ons zouden inhuren ze wel meer geld kwijt zouden zijn maar ook een beter eindproduct zouden krijgen.",
+        "id": "_iuJYp1P1T",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik ben als eerste onderzoek gaan doen naar verschillende stijlen van animaties en filmpjes. Daarbij rekening houdend met de boodschap die wij wilden overbrengen en hoe ik dat het best kon vormgeven. Uiteindelijk heb ik gekozen voor een stopmotion. We wilden onze boodschap simpel maar met een knipoog overbrengen en door deze stijl te gebruiken was het wat speelser.",
+        "id": "_JUphk8VmY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vervolgens ben ik gaan schetsen. De tekst had ik al gekregen van Jeroen en hieromheen moest ik beeld verzinnen. Toen ik de schetsen eenmaal had staan, heb ik een lijst met materialen gemaakt en gezorgd dat ik de juiste belichting, het goede statief, camera en programma\u2019s had en ben ik de stopmotion gaan schieten. Van te voren had ik een paar tutorials bekeken, hoe ik dit het best aan kon pakken. Zo kwam ik erachter dat belichting heel belangrijk is, vandaar dat ik lampen neer heb gezet, zodat de belichting niet zou veranderen per foto en heb ik uitgerekend hoeveel foto\u2019s ik per shot zou moeten maken ivm met hoeveel frames per seconden ik in after effects zou animeren.",
+        "id": "_ezBM2xRYV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Toen ik alle foto\u2019s had gemaakt ben ik het in after effects gaan animeren. Sommige foto\u2019s waren toch net wat anders belicht en dit heb ik toen in photoshop gecorrigeerd. De tekst heb ik een wiggle effects gegeven. Zo lijkt dit ondanks dat het geanimeerd is toch op een stopmotion. Ook heb ik er een vrolijk muziekje onder gezet, om in het thema van de rest van het filmpje te blijven.",
+        "id": "_biYe22Pc4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Het uiteindelijke resultaat was een filmpje DIY art direction. Het is een informatief filmpje hoe een klant zit zelf zou kunnen aanpakken en laat ook gelijk zien, dat je dan niet het beste resultaat krijgt. Het adverteert de service van het reclamebureau en dit was ook het doel van het filmpje",
+        "id": "_JkoL4laTm",
         "type": "paragraph"
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.7777777777777777,
-            "caption": "Caption yeah!"
-        },
-        "content": "",
-        "id": "_u394bdt1a",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "src": "https://youtu.be/Qb7dPpDDgq8",
-            "caption": "Caption yeah!"
+            "src": "https://youtu.be/23iC24C7-B0",
+            "caption": ""
         },
         "content": "",
         "id": "_k2lm3y32f",
         "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Ik heb van dit proces heel veel geleerd. Door alles van te voren te schetsen en te berekenen hoeveel foto\u2019s ik nodig had, heb ik alles binnen 1 dag kunnen fotograferen. Het was nog steeds meer werk dan dat ik had verwacht. Dit kwam doordat ik van veel foto\u2019s alsnog de kleur moest corrigeren. Als ik dit nog een keer zou doen, zou ik meer lampen gebruiken, zodat de invloed van daglicht minder zichtbaar is. Dat ik animeren leuk vond om te doen wist ik al, maar met dit project heb ik dat ook uitgebreid naar een stop motion en heb ik mezelf meer verdiept in de verschillende stijlen van animeren. Ik zou het dus ook heel leuk vinden als ik een stage zou kunnen vinden waarin ik mezelf op dit vlak verder kan ontwikkelen.",
+        "id": "_uS3722TlS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik heb me bij mijn herkansing meer verdiept in het schrijven van een Starr en heb ik onderzoek gedaan naar hoe ik een Starr schijf. Dit in combinatie met de uitleg van de docenten, heeft mijn meening over de Starr wel veranderd. Ik vond het heel lastig om mijn proces te laten zien binnen een Starr, maar ben er achter gekomen dat het gehele proces binnen de A van actie valt. Dit stuk tekst is bij mij ook een stuk langer dan de rest en dat is ok\u00e9 vind ik.",
+        "id": "_vuMw5eX9i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eerst dacht ik dat het dan geen lekker lopend verhaal mee zou zijn, maar dat valt eigenlijk allemaal wel mee en snap ik beter hoe ik dit nu ook op mijn andere cases kan toepassen.",
+        "id": "_4OmGX9wfL",
+        "type": "paragraph"
     },
     {
         "attrs": [],

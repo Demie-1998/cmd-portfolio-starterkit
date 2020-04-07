@@ -3,36 +3,36 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    background-color: #ececec; 
+    background-color: #ffffff; 
     font-family: 'Work Sans', sans-serif;
 }
 /* Buttons */
 .btn-primary {
-    background-color:red;
-    border-color: red;
-    border-radius: 50px;
+    background-color:#00b1ba;
+    border-color: #00b1ba;
+    border-radius: 0px;
     padding: 10px 20px;
 }
 .btn-primary:hover {
-    background-color: white;
-    color: red;
-    border-color: white;
+    background-color: #018b98;
+    color:#ffffff;
+    border-color: #018b98;
 }
 .btn-outline-primary {
-    border-color: red;
-    color: red;
+    border-color: #00b1ba;
+    color: #00b1ba;
     border-width: 2px;
-    border-radius: 50px;
+    border-radius: 0px;
     padding: 10px 20px;
 }
 .btn-outline-primary:hover {
-    background-color: white;
-    color: red;
-    border-color: white;
+    background-color: #018b98;
+    color:#ffffff;
+    border-color:#018b98;
 }
 /* Links */
 a {
-    color: red;
+    color: #00b1ba;
 }
 a:hover {
     color: black;
@@ -40,13 +40,13 @@ a:hover {
 }
 /* Navigatie */
 .navbar {
-    background-color: white;
+    background-color:#ffffff;
 }
 .navbar-light .navbar-nav .nav-link {
-    color: red;
+    color: #00b1ba;
 }
 .navbar-light .navbar-brand {
-    color: red;
+    color: #00b1ba;
 }
 /* Afbeeldingen */
 figure img {

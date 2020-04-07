@@ -7,13 +7,31 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+        "content": "School en opleiding ",
+        "id": "_y9zqftd8f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Na mijn mbo-opleiding media vormgever aan het grafisch lyceum Rotterdam zocht ik naar een opleiding om meer betekenis te geven aan wat ik maak en ontwerp. Bij CMD ben ik erachter gekomen hoe ik dit kan doen en mezelf hierin kan ontwikkelen. Mijn interesses liggen heel breed ik hou van motion design en animeren met after effects maar ook de ux wereld trekt me heel erg aan. Op het CMD ben ik erachter gekomen dat ik alles wel een beetje leuk vind. Onderzoeken, interviews houden, testen en prototypen. Wat ik echt het leukst vind is creative concepting, abstract denken en de inzichten uit onderzoek gebruiken om tot een oplossing te komen voor een probleem.<br>",
         "id": "_g1nXSBng0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.",
+        "content": "Naast school",
+        "id": "_or1qy4vdh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Naast school, werk ik veel, ben ik freelancer en maak logo's en huisstijlen voor bedrijven. Ook werk is als co\u00f6rdinator van een hostessenbureau. Dit betekent dat ik werk op evenementen en daar ook het aanspreekpunt ben voor mijn collega's of het bedrijf dat ons inhuurt. In de zomer werk ik altijd een aantal weken op een camping in het animatie team. Dit doe ik al 4 jaar en ik vind het super leuk om lekker buiten bezig te zijn met kinderen of jongeren. Een leuke afwisseling van het altijd maar achter mijn laptop zitten. Zoals je ziet, is stil zitten niet echt mijn ding en ben ik altijd lekker bezig. Ik heb veel energie en uit deze op verschillende manieren op mijn werk of in mijn creativiteit op school. <br>",
+        "id": "_3bxc0l3wx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
         "id": "_uRKO7ni0o",
         "type": "paragraph"
     }
