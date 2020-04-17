@@ -97,4 +97,14 @@ h1 {
 
 figure{
     width: 300px;
+
 }
+
+.card{
+ border-color: #018b98;
+ border-width:  1px;
+}
+
+.card:hover {
+    -webkit-transform: scale(1.1);
+   }
