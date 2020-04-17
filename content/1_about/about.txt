@@ -7,7 +7,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "School en opleiding ",
+        "content": "School en opleiding",
         "id": "_y9zqftd8f",
         "type": "paragraph"
     },

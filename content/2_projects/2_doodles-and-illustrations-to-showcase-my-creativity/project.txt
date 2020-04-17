@@ -1,20 +1,388 @@
-Title: Doodles and illustrations to showcase my creativity
+Title: NRC
 
 ----
 
-Roles: Visual Design, Ideation
+Roles: research, Ideation, Testing, Motion design, Visual design
 
 ----
 
-Duration: Ongoing
+Duration: september 2019 - februari 2020
 
 ----
 
-Clients: Rotterdam University of Applied Sciences
+Clients: NRC
 
 ----
 
-Deliverables: Doodles, Illustrations
+Deliverables: Sprint 1 - Sprint 2 - Sprint 3 - Sprint 4
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Opdracht",
+        "id": "_w763ye3fr",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Het nrc kwam bij ons met een probleem. Tijdens de eerste 14 dagen viel er 11% van de abonnees weg en de Digitale middelen werden weinig gebruikt. Dit is een breed probleem zonder echte concrete vraag. Door de vrijheid die we hadden heb ik met mijn team besloten om een concrete doelgroep te kiezen en hier onderzoek naar te gaan doen.",
+        "id": "_wf5ijvbgz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/schermafbeelding-2020-01-22-om-19.07.22.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1391161589-1587124845/schermafbeelding-2020-01-22-om-19.07.22.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/schermafbeelding-2020-01-22-om-19.07.22.png",
+            "ratio": 1.330645161290322509017869379022158682346343994140625,
+            "caption": "Eind expositie NRC Team Alium"
+        },
+        "content": "<br>",
+        "id": "_jxp00j09p",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Sprint 1",
+        "id": "_fn40dj7x1",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Enqueten",
+        "id": "_0wiq8apns",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Insight wall",
+        "id": "_yokrnjt84",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Stakeholder map",
+        "id": "_gkrb4u6qp",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "",
+        "id": "_5y1808eqx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik heb eerst een enqu\u00eate gemaakt om snel meer inzicht te krijgen in de huidige nrc abonnees. Hieruit bleek dat veel meer mannen dan vrouwen het nrc lezen. Om er achter te komen waarom dit is heb ik besloten interviews te gaan houden. Zo ben ik er achter gekomen dat de behoeftes die zij hebben vooral gaat om tijdbesparende oplossingen, als het neerkomt op het consumeren van nieuws. Zo gaven zij aan graag meer het nieuws te willen consumeren, maar zij hier geen tijd voor hadden. Onze doelgroep consumeerde het meest het nieuws onderweg ergens naar toe. Zo nuttigen zij toch hun onbenutte tijd, omdat ze een druk leven hebben.",
+        "id": "_6hx0t19lc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_7hkmnyhcu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/schermafbeelding-2019-09-30-om-19.47.54.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/4163048623-1587125482/schermafbeelding-2019-09-30-om-19.47.54.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/schermafbeelding-2019-09-30-om-19.47.54.png",
+            "ratio": 1.017928286852589625510745463543571531772613525390625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ytnn179z7",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Alle informatie die we uit de enqu\u00eate en interviews hebben gehaald hebben we toen op een insight wall geplaatst. We hebben zo de belangrijkste inzichten er uit gehaald<br>\u201cIk wil graag meer bezig zijn met het nieuws maar ik doe het niet\u201d - Ik heb te weinig tijd en doe het daarom niet. \u201cHet nieuws wordt voor mij interessanter als het betrekking heeft op mijn situatie\u201d Omdat ik er dan rekening mee kan houden en het toegevoegde waarde heeft voor mijn situatie \u201cTijdens het reizen luister ik graag radio.\u201d Dit doe ik omdat ik dan mijn onbenutte tijd in de auto nuttig kan besteden en het nieuws kan luisteren<br>",
+        "id": "_y1l3s8ow2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sprint 2",
+        "id": "_nwfua62f5",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Deskresearch",
+        "id": "_gntkwzc8t",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Braindump",
+        "id": "_rpnhh6rb8",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Intervieuw",
+        "id": "_k3zwbb1xx",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Insight wall 2.0",
+        "id": "_dioamxiu8",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Brainwrithing",
+        "id": "_1e7zs448p",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Catagoriseren van ide\u00ebn",
+        "id": "_xrqbf800u",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Concept test",
+        "id": "_wcdwpgfe4",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Wat als (creatieve techniek)",
+        "id": "_i7y9atlp7",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Animatie",
+        "id": "_m3of3rrga",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/schermafbeelding-2019-09-30-om-19.45.55.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2271623778-1587125557/schermafbeelding-2019-09-30-om-19.45.55.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/schermafbeelding-2019-09-30-om-19.45.55.png",
+            "ratio": 0.55701754385964907800854462038842029869556427001953125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_k1ik1zvaf",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<br>We hadden een presentatie voor de opdrachtgevere en om ons concept duidelijk te kunnen uitleggen heb ik een storyboard gemaakt.",
+        "id": "_prc4b8p4d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/schermafbeelding-2019-11-05-om-17.40.17.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1619552948-1587126180/schermafbeelding-2019-11-05-om-17.40.17.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/schermafbeelding-2019-11-05-om-17.40.17.png",
+            "ratio": 1.4021739130434782705236784750013612210750579833984375,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_tg3274qkz",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Ik wilden ons concept aansterken door meer idee\u00ebn te verzinnen. Ik heb gekozen om de wat als techniek hiervoor voor te bereiden en met mijn team uit te voeren het doel hiervan was om out of the box idee\u00ebn te bedenken. Het doel hiervan was afstand nemen van onze concepten en buiten de lijntjes denken. Door de veelvoud aan \u201cwat als vragen\u201d hebben we hele diverse antwoorden gekregen. Zo kwam door de vraag wat als we geen rekening met competenties hoefde te houden, dat we dan geen moeite zouden doen en we het meest voor de hand liggende idee zouden kiezen. Toen kwam het idee hoe kunnen wij de nrc app en het nieuws gebruik zo makkelijk mogelijk maken voor hun dat ze hier zelf weinig tot geen moeite voor hoeven te doen. <br>",
+        "id": "_jn0pq0cyc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Om de waarden van onze doelgroep concreet op te schrijven, ben ik user story\u2019s gaan maken. We hadden. Omdat we momenteel op een punt zijn waar het handig is om de waarden van de doelgroep te hebben, zodat we deze tijdens het proces ook af en toe erbij kunnen pakken. Daarnaast wil ik een user story map gaan maken en is het handig om User stories te hebben als je hier mee aan de slag gaat .",
+        "id": "_xFGnuvTrJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Tijdens het maken van de user story is me opgevallen dat het inzicht \u201cgeen tijd\u201d veel herhaald werd op onze insight wall. Bij het maken van de user stories vond ik het heel lastig om niet functioneel te denken. Het is iets wat de doelgroep wil en mijn hoofd gaat dan gelijk naar iets functioneels.",
+        "id": "_nEEC5oShe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Foto user stories",
+        "id": "_HxWkuV00M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mijn onderdeel was de daily mix deze heb ik geschetst getest en uitgewerkt Ik heb als eerst een schets gemaakt om een idee te krijgen hoe ik alles wilden vormgeven. Daarna ben ik deze gaan testen, meer gaan schetsen en heb ik een uiteindelijke high fid clickable gemaakt",
+        "id": "_nWV9qXtVE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Schets daily mix",
+        "id": "_OoK4bCUXD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Voordat ik mijn app clickable ging maken Ik wilden alle link die ik moest gaan prototypen duidelijk hebben zodat ik precies wist welke acties er allemaal binnen de daily mix vielen. Een wireframe is heel fijn voor het structureren van informatie die in mijn hoofd zat. Aangezien we nu redelijk snel een clickable moesten maken vond ik het handig om dit als referentiepunt voor mijn prototype te gebruiken.",
+        "id": "_mxpEOvVn8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Voor onze mvp moesten we een clickable prototype maken. ik hebben besloten om dit in figma te gaan maken. Na het uittesten van xd en sketch hadden we gemerkt dat wat wij wilden maken het beste kon in figma. Ook konden daar meerdere mensen tegelijk in werken en dit is heel handig.",
+        "id": "_OVDcmfCfS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Flow chart + low fid",
+        "id": "_kQtBQQrLN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "ik heb getest en aan de hand van deze uitkomsten onze high fid clickable gemaakt",
+        "id": "_pD4q4Qnw0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Door alle nuttige feedback die we hebben gekregen tijdens de prototype party. Kunnen we nu onze high fid prototype maken die we gaan laten zien op de expo aan het NRC. Wij werken deze verder uit in figma, omdat we hier al mee werken. Onze focus ligt vooral op het visueel aspect",
+        "id": "_2X6Ocx5PV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "high fid",
+        "id": "_swf6l5DI3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br><br><br>",
+        "id": "_YSd9PNaRP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Low",
+        "id": "_XvrK70CVF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ook heb ik een flowchart gemaakt van de daily mix",
+        "id": "_UkwDOLeBc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br>",
+        "id": "_g6V0FdEMi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "App daily mix",
+        "id": "_78cqqkpth",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br><br>",
+        "id": "_ihfMk3q3R",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ons vraagstuk",
+        "id": "_O5f4B7IyM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Na dit onderzoek hebben we een hoe kunne we vraag opgesteld om mee verder te gaan",
+        "id": "_vJEd5T2qD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "hoe kunnen we er voor zorgen dat de doelgroep het nieuws kan consumeren zonder hier te veel extra tijd aan kwijt te zijn.",
+        "id": "_u7fNBJs8z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Met de inzichten vanuit het onderzoek hebben we als team creatieve technieken toegepast",
+        "id": "_6mOWBp3mW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br>",
+        "id": "_JqleanI8n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/schermafbeelding-2019-11-05-om-16.13.32.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3761691043-1587126214/schermafbeelding-2019-11-05-om-16.13.32.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/schermafbeelding-2019-11-05-om-16.13.32.png",
+            "ratio": 2.06321839080459756843310969998128712177276611328125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_7uuqtl2kh",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Na aanleiding van onze eerdere presentatie wilden ik een meer visueel prikkelend prototypen cre\u00ebren. Om het concept ter verduidelijking heb ik een animatie gemaakt om een impressie te geven, hoe ons concept uiteindelijk gebruikt zou worden door de doelgroep.<br><br>Om de waarden van onze doelgroep concreet op te schrijven, ben ik user story\u2019s gaan maken. We hadden. Omdat we momenteel op een punt zijn waar het handig is om de waarden van de doelgroep te hebben, zodat we deze tijdens het proces ook af en toe erbij kunnen pakken. Daarnaast wil ik een user story map gaan maken en is het handig om User stories te hebben als je hier mee aan de slag gaat . <br><br>",
+        "id": "_aetpsm84j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://youtu.be/kUrtbEHnvGY",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_bqekdcz00",
+        "type": "video"
+    }
+]
 
 ----
 
