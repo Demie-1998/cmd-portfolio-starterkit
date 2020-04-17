@@ -29,18 +29,6 @@ Text:
     },
     {
         "attrs": [],
-        "content": "This is a quote, don't you think",
-        "id": "_cwnjhuy68",
-        "type": "blockquote"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_n69m23272",
-        "type": "hr"
-    },
-    {
-        "attrs": [],
         "content": "Er zijn tegenwoordig steeds meer mensen die denken dat ze zelf een poster of logo kunnen maken, waardoor dat ze geen geld kost. Tijdens mijn werk bij reclamebureau Naam en Faam wilden wij hier op inspelen. We wilden laten zien wat het verschil is tussen zelf iets smaken of het professioneel te laten doen door een reclamebureau. Daarnaast ook een korte uitleg geven, mocht je dit toch zelf willen doen en hoe je dit dan aan moet pakken.",
         "id": "_8u6h6fukv",
         "type": "paragraph"
