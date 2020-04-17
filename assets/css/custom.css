@@ -1,10 +1,21 @@
+@font-face{
+    font-family: "avenir";
+    src:url("fonts/Avenir.ttc");
+}
+
+
+
 /* Overall */
 html {
     scroll-behavior: smooth;
 }
 body {
-    background-color: #ffffff; 
-    font-family: 'Work Sans', sans-serif;
+   
+background: linear-gradient(to bottom, white 0%,white 50%,#000000 50%,#00b1ba 50%,#00b1ba 100%); /* W3C */
+    
+}
+main{
+    width: 100%;
 }
 /* Buttons */
 .btn-primary {
@@ -51,4 +62,35 @@ a:hover {
 /* Afbeeldingen */
 figure img {
     width: 100%;
+}
+
+
+img.medium
+{
+    width: 970px;
+    height: 375px;
+}
+#h1 { 
+    background-color:#00b1ba; 
+    margin-bottom: 15px;
+    width: 400px;
+    padding-top: 5px;
+    }
+
+h1 {
+    color: white; 
+    Padding-left: 10px;
+    font-family:avenir;
+    }
+#introtekst {
+    font-size: 18px;
+    font-family:avenir;
+}
+#bottomcolor{
+    background-color: #00b1ba;
+    width: 100%;
+}
+#pijlimg {
+    max-width: 100%;
+    height: auto;
 }

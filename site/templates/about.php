@@ -1,6 +1,11 @@
 <?php snippet('header') ?>
-<img src="<?= $site->url() ?>/img/foto1.jpg">
-<main class="pt-5 pb-5">
+
+<main class="pt-3 pb-5">
+  <div class="row pb-4">
+  <div class="col-12">
+  <img src="<?= $site->url() ?>/img/foto1.jpg" class="align-left medium"/>
+</div>
+</div>
   <div class="row">
     <div class="col-12 col-lg-9"> 
       <?php snippet('intro') ?>
@@ -12,5 +17,6 @@
     </div>
   </div>
 </main>
+
 
 <?php snippet('footer') ?>
