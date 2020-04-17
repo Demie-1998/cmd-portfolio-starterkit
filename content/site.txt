@@ -2,11 +2,13 @@ Title: Démie van Bentveld
 
 ----
 
-Logo: - logo_demie.png
+Logo:
+
+- logo_demie.png
 
 ----
 
-Email: 
+Email: Demievanbentveld@gmail.com
 
 ----
 
@@ -17,9 +19,9 @@ Social:
   url: >
     https://www.linkedin.com/in/démie-van-bentveld-b38891136/
 - 
-  platform: LinkedIn
+  platform: Facebook
   url: >
-    https://www.linkedin.com/in/démie-van-bentveld-b38891136/
+    https://www.facebook.com/demie.vanbentveld?ref=bookmarks
 
 ----
 
