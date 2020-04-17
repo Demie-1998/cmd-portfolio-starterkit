@@ -10,9 +10,9 @@ html {
     scroll-behavior: smooth;
 }
 body {
-   
-background: linear-gradient(to bottom, white 0%,white 50%,#000000 50%,#00b1ba 50%,#00b1ba 100%); /* W3C */
     
+background-color: white;
+
 }
 main{
     width: 100%;
@@ -93,4 +93,8 @@ h1 {
 #pijlimg {
     max-width: 100%;
     height: auto;
+}
+
+figure{
+    width: 300px;
 }

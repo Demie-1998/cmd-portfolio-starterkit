@@ -22,8 +22,8 @@
 </main>
 </div>
 
-<div id="pijl">
-    <img id="pijlimg" src="img/Punt3.png"> 
+<!-- <div id="pijl"> -->
+    <!-- <img id="pijlimg" src="img/Punt3.png">  -->
     
     </div>
 <div class="container">
