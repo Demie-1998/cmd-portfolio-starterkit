@@ -1,4 +1,6 @@
 <?php snippet('header') ?>
+<div style="background-image: url('https://media.istockphoto.com/photos/flowers-wall-background-with-amazing-roses-picture-id653267940');">
+</div>
 
 <main>
   <div id="topcolor" >

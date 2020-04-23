@@ -5,6 +5,7 @@
       <?php snippet('intro') ?>
     </div>
   </div>
+  
   <div class="row pb-5">
     <div class="col-6 col-lg-3 border-bottom pt-4 pb-4">
       <h6>Roles:</h6>
@@ -23,6 +24,7 @@
       <?= $page->clients() ?>
     </div>
   </div>
+
   <div class="row">
     <div class="col-12">
       <?= $page->text()->blocks()->html() ?>

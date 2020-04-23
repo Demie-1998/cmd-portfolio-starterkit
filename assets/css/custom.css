@@ -13,14 +13,16 @@ body {
     
 background-color: white;
 
+
+
 }
 main{
     width: 100%;
 }
 /* Buttons */
 .btn-primary {
-    background-color:#00b1ba;
-    border-color: #00b1ba;
+    background-color:#ea5449;
+    border-color: #ea5449;
     border-radius: 0px;
     padding: 10px 20px;
 }
@@ -30,8 +32,8 @@ main{
     border-color: #018b98;
 }
 .btn-outline-primary {
-    border-color: #00b1ba;
-    color: #00b1ba;
+    border-color: #ea5449;
+    color: #ea5449;
     border-width: 2px;
     border-radius: 0px;
     padding: 10px 20px;
@@ -54,7 +56,7 @@ a:hover {
     background-color:#ffffff;
 }
 .navbar-light .navbar-nav .nav-link {
-    color: #00b1ba;
+    color: #ea5449;
 }
 .navbar-light .navbar-brand {
     color: #00b1ba;
@@ -101,10 +103,15 @@ figure{
 }
 
 .card{
- border-color: #018b98;
+ border-color: white;
  border-width:  1px;
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ transition: 0.3s;
 }
 
 .card:hover {
     -webkit-transform: scale(1.1);
-   }
+    border-color: #00b1ba;;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+   

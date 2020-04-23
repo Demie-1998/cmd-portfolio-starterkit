@@ -16,6 +16,7 @@
       <a href="<?= $page->files()->template('document') ?>" target="_blank">Download resumé</a>
     </div>
   </div>
+  
 </main>
 
 
