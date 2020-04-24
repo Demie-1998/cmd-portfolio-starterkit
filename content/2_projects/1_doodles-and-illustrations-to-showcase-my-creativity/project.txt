@@ -23,8 +23,20 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Momenteel valt 11% van de nieuwe abonnees van het NRC tijdens de eerste 14 dagen af. Ook worden de digitale middelen amper gebruikt <br>Ik moest met mijn team een oplossing bedenken voor dit probleem. Deze periode heb ik de rol van teamcaptain op me genomen. Het was dus mijn taak om iedereen aan te sturen, het overzicht te bewaren en te zorgen dat iedereen zich aan de afspraken/deadlines hield.",
-        "id": "_8latfc7to",
+        "content": "<strong>Het probleem </strong>",
+        "id": "_x7qcqkayw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Momenteel valt 11% van de nieuwe abonnees van het NRC tijdens de eerste 14 dagen af. Ook worden de digitale middelen amper gebruikt",
+        "id": "_j07ow5o5w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Ik moest met mijn team een oplossing bedenken voor dit probleem. Deze periode heb ik de rol van teamcaptain op me genomen. Het was dus mijn taak om iedereen aan te sturen, het overzicht te bewaren en te zorgen dat iedereen zich aan de afspraken/deadlines hield.",
+        "id": "_d3vzonps0",
         "type": "paragraph"
     },
     {
@@ -47,8 +59,20 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Om meer inzicht te krijgen in de doelgroep heb ik fieldresearch, deskresearch, interviews en twee (2) enqu\u00eates uitgevoerd. Al deze bevindingen heb ik toen samen gebracht op de insight wall en hier heb ik met mijn team verbanden in gezocht. <br>DefineAl snel viel ons op dat er minder vrouwelijke NRC lezers waren en dat de digitale middelen niet werden gebruikt doordat de abonnees niet wisten dat deze er waren. Wij zijn er achter gekomen dat de behoeftes die zij hebben vooral gaan om tijdbesparende oplossingen, als het neerkomt op het consumeren van nieuws. Zo gaven zij aan graag meer het nieuws te willen consumeren, maar zij hier geen tijd voor hadden. Aan de hand van de nieuwe inzichten konden we een nieuwe ontwerpvraag formuleren. Namelijk: hoe kunnen we er voor zorgen dat de doelgroep het nieuws kan consumeren zonder hier te veel extra tijd aan kwijt te zijn.",
-        "id": "_qo5fd0jdu",
+        "content": "Om meer inzicht te krijgen in de doelgroep heb ik fieldresearch, deskresearch, interviews en twee enqu\u00eates uitgevoerd. Al deze bevindingen heb ik toen samen gebracht op de insight wall en hier heb ik met mijn team verbanden in gezocht. <br>",
+        "id": "_3yrcxlq2a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Define</strong>",
+        "id": "_fqfz106lr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Al snel viel ons op dat er minder vrouwelijke NRC lezers waren en dat de digitale middelen niet werden gebruikt doordat de abonnees niet wisten dat deze er waren. Wij zijn er achter gekomen dat de behoeftes die zij hebben vooral gaan om tijdbesparende oplossingen, als het neerkomt op het consumeren van nieuws. Zo gaven zij aan graag meer het nieuws te willen consumeren, maar zij hier geen tijd voor hadden. Aan de hand van de nieuwe inzichten konden we een nieuwe ontwerpvraag formuleren. Namelijk: hoe kunnen we er voor zorgen dat de doelgroep het nieuws kan consumeren zonder hier te veel extra tijd aan kwijt te zijn.",
+        "id": "_whx9dpxng",
         "type": "paragraph"
     },
     {
@@ -65,7 +89,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Ideat</strong>",
+        "content": "<strong>Ideate</strong>",
         "id": "_aq1a7h4xx",
         "type": "paragraph"
     },
