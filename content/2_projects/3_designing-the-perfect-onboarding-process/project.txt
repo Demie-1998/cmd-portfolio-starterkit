@@ -68,41 +68,9 @@ Text:
             "src": "https://youtu.be/23iC24C7-B0",
             "caption": ""
         },
-        "content": "",
-        "id": "_k2lm3y32f",
+        "content": "Ik heb me bij mijn herkansing meer verdiept in het schrijven van een Starr en heb ik onderzoek gedaan naar hoe ik een Starr schijf. Dit in combinatie met de uitleg van de docenten, heeft mijn meening over de Starr wel veranderd. Ik vond het heel lastig om mijn proces te laten zien binnen een Starr, maar ben er achter gekomen dat het gehele proces binnen de A van actie valt. Dit stuk tekst is bij mij ook een stuk langer dan de rest en dat is ok\u00e9 vind ik.Eerst dacht ik dat het dan geen lekker lopend verhaal mee zou zijn, maar dat valt eigenlijk allemaal wel mee en snap ik beter hoe ik dit nu ook op mijn andere cases kan toepassen.",
+        "id": "_c9l2knizu",
         "type": "video"
-    },
-    {
-        "attrs": [],
-        "content": "Ik heb van dit proces heel veel geleerd. Door alles van te voren te schetsen en te berekenen hoeveel foto\u2019s ik nodig had, heb ik alles binnen 1 dag kunnen fotograferen. Het was nog steeds meer werk dan dat ik had verwacht. Dit kwam doordat ik van veel foto\u2019s alsnog de kleur moest corrigeren. Als ik dit nog een keer zou doen, zou ik meer lampen gebruiken, zodat de invloed van daglicht minder zichtbaar is. Dat ik animeren leuk vond om te doen wist ik al, maar met dit project heb ik dat ook uitgebreid naar een stop motion en heb ik mezelf meer verdiept in de verschillende stijlen van animeren. Ik zou het dus ook heel leuk vinden als ik een stage zou kunnen vinden waarin ik mezelf op dit vlak verder kan ontwikkelen.",
-        "id": "_uS3722TlS",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Ik heb me bij mijn herkansing meer verdiept in het schrijven van een Starr en heb ik onderzoek gedaan naar hoe ik een Starr schijf. Dit in combinatie met de uitleg van de docenten, heeft mijn meening over de Starr wel veranderd. Ik vond het heel lastig om mijn proces te laten zien binnen een Starr, maar ben er achter gekomen dat het gehele proces binnen de A van actie valt. Dit stuk tekst is bij mij ook een stuk langer dan de rest en dat is ok\u00e9 vind ik.",
-        "id": "_vuMw5eX9i",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Eerst dacht ik dat het dan geen lekker lopend verhaal mee zou zijn, maar dat valt eigenlijk allemaal wel mee en snap ik beter hoe ik dit nu ook op mijn andere cases kan toepassen.",
-        "id": "_4OmGX9wfL",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "I don't know what this is?",
-        "id": "_r7s0ov601",
-        "type": "kirbytext"
-    },
-    {
-        "attrs": {
-            "language": "css"
-        },
-        "content": "And what should this be?",
-        "id": "_ymeh8uuyc",
-        "type": "code"
     }
 ]
 
