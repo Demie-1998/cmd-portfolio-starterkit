@@ -10,11 +10,11 @@ Duration: September 2019 - Januari 2020
 
 ----
 
-Clients: Algemeen Dagblad
+Clients: Politie Rotterdam
 
 ----
 
-Deliverables: Wireframes, Moodboard
+Deliverables: Iteratie 1, Iteratie 2
 
 ----
 
@@ -23,16 +23,22 @@ Text:
 [
     {
         "attrs": [],
-        "content": "<strong>Van de politie Rotterdam Rijnmond Noord kwam een vraag. Hoe kan specifieke expertise van politieagenten worden gedeeld en gevonden, zodat we een super team kunnen samenstellen?</strong>",
+        "content": "<strong>Vraagstuk</strong>",
+        "id": "_mw0ezmn3b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Van de politie Rotterdam Rijnmond Noord kwam een vraag. Hoe kan specifieke expertise van politieagenten worden gedeeld en gevonden, zodat we een super team kunnen samenstellen?",
         "id": "_1qsbfm4cz",
         "type": "paragraph"
     },
     {
         "attrs": {
-            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/ontwerproces-politie_tekengebied-1-kopie.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/1045070439-1587728435/ontwerproces-politie_tekengebied-1-kopie.png",
-            "id": "projects/introducing-gamification-into-a-newsplatform/ontwerproces-politie_tekengebied-1-kopie.png",
-            "ratio": 1.4144811858608894450384241281426511704921722412109375,
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/proces.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/2734482603-1588339461/proces.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/proces.png",
+            "ratio": 2.97508367422833774895707392715848982334136962890625,
             "caption": ""
         },
         "content": "<br>Veel agenten hebben vaak, naast hun standaard skill set, extra kennis of vaardigheden over bepaalde onderwerpen die niet per se betrekking heeft op hun reguliere taakuitoefening. Momenteel worden deze vaardigheden onvoldoende benut doordat deze niet bekend zijn. Op het moment dat deze vaardigheden een cruciale rol zouden kunnen spelen binnen een lopend onderzoek, zijn de agenten met de juiste vaardigheden lastig te vinden en worden deze dus niet of te laat ingezet. Hierdoor worden de speciale vaardigheden van de agent niet benut, erkend of gewaardeerd<br>",
@@ -53,29 +59,15 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/beeld-cases_2.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/3545284114-1587678704/beeld-cases_2.png",
-            "id": "projects/introducing-gamification-into-a-newsplatform/beeld-cases_2.png",
-            "ratio": 3.726129482999534392462237519794143736362457275390625,
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/empatize_politie.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/3240117571-1588339016/empatize_politie.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/empatize_politie.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
             "caption": ""
         },
         "content": "<strong>Empathize</strong>",
         "id": "_vhsd7i9h9",
         "type": "image"
-    },
-    {
-        "attrs": {
-            "language": "html"
-        },
-        "content": "",
-        "id": "_q8y7ip683",
-        "type": "code"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_o2z2s809o",
-        "type": "paragraph"
     },
     {
         "attrs": [],
@@ -103,10 +95,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/ideate_politie_2.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/2423054885-1587728429/ideate_politie_2.png",
-            "id": "projects/introducing-gamification-into-a-newsplatform/ideate_politie_2.png",
-            "ratio": 3.21285140562248994200444940361194312572479248046875,
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/ideate_politie_3.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/2903296917-1588339058/ideate_politie_3.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/ideate_politie_3.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
             "caption": ""
         },
         "content": "",
@@ -121,10 +113,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/prototype_politie_2.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/435117555-1587728493/prototype_politie_2.png",
-            "id": "projects/introducing-gamification-into-a-newsplatform/prototype_politie_2.png",
-            "ratio": 3.726595249184909253159503350616432726383209228515625,
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/prototype_politie_3.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/613381187-1588339078/prototype_politie_3.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/prototype_politie_3.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
             "caption": ""
         },
         "content": "<strong><br>Ideat</strong><br><strong>Door het maken van een insight wall en insight bubbel (mijn eigen verzonnen techniek) had ik alle inzichten samengevat en kon ik hiermee idee\u00ebn gaan genereren. Daarbij heb ik zelf verschillende creatieve technieken uitgevoerd en later ook nog een creatieve sessie gehouden met de politie zelf. Hierbij heb ik ze een trots schild laten tekenen. Hieruit bleek dat ze veel tekenden in medailles en emblemen in tegenstelling tot gewone illustraties. Zij zien dus kennelijk trots, door erkenning van wat je allemaal kunt. Door de verschillende creatieve methodes die ik heb gedaan, ben ik uiteindelijk tot een concept gekomen.</strong><br><br><strong><br>Ideat</strong><br>Door het maken van een insight wall en insight bubbel (mijn eigen verzonnen techniek) had ik alle inzichten samengevat en kon ik hiermee idee\u00ebn gaan genereren. Daarbij heb ik zelf verschillende creatieve technieken uitgevoerd en later ook nog een creatieve sessie gehouden met de politie zelf. Hierbij heb ik ze een trots schild laten tekenen. Hieruit bleek dat ze veel tekenden in medailles en emblemen in tegenstelling tot gewone illustraties. Zij zien dus kennelijk trots, door erkenning van wat je allemaal kunt. Door de verschillende creatieve methodes die ik heb gedaan, ben ik uiteindelijk tot een concept gekomen.<br><br>",
@@ -145,10 +137,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/test_politie.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/3313409636-1587728502/test_politie.png",
-            "id": "projects/introducing-gamification-into-a-newsplatform/test_politie.png",
-            "ratio": 2.296498277841561463930020181578584015369415283203125,
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/test_politie_3.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/570909830-1588339214/test_politie_3.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/test_politie_3.png",
+            "ratio": 2.2542945649112926531643097405321896076202392578125,
             "caption": ""
         },
         "content": "",
@@ -169,9 +161,9 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/resultaat_politie_3.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/4219358254-1587729086/resultaat_politie_3.png",
-            "id": "projects/introducing-gamification-into-a-newsplatform/resultaat_politie_3.png",
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/resultaat_politie_4.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/introducing-gamification-into-a-newsplatform/1230934078-1588339262/resultaat_politie_4.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/resultaat_politie_4.png",
             "ratio": 1.242621932277104601638484382419846951961517333984375,
             "caption": ""
         },

@@ -5,7 +5,7 @@
 <section class="content article">
   <article>
     <?php snippet('intro') ?>
-    <p><?= $page->date()->toDate('d.m.Y') ?></p>
+    
     <?= $page->text()->blocks()->html() ?>
     <a href="<?= url('articles') ?>">&#8592; Back</a>
   </article>

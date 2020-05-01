@@ -35,7 +35,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<br>Ik moest met mijn team een oplossing bedenken voor dit probleem. Deze periode heb ik de rol van teamcaptain op me genomen. Het was dus mijn taak om iedereen aan te sturen, het overzicht te bewaren en te zorgen dat iedereen zich aan de afspraken/deadlines hield.",
+        "content": "Ik moest met mijn team een oplossing bedenken voor dit probleem. Deze periode heb ik de rol van teamcaptain op me genomen. Het was dus mijn taak om iedereen aan te sturen, het overzicht te bewaren en te zorgen dat iedereen zich aan de afspraken/deadlines hield.",
         "id": "_d3vzonps0",
         "type": "paragraph"
     },
@@ -150,7 +150,8 @@ Text:
     {
         "attrs": {
             "src": "https://youtu.be/kUrtbEHnvGY",
-            "caption": ""
+            "caption": "",
+            "css": "Class=\"NRC\""
         },
         "content": "",
         "id": "_bqekdcz00",

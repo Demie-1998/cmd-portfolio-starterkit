@@ -7,7 +7,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "School en opleiding",
+        "content": "<strong>School en opleiding</strong>",
         "id": "_y9zqftd8f",
         "type": "paragraph"
     },
@@ -19,7 +19,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Naast school",
+        "content": "<strong>Naast school</strong>",
         "id": "_or1qy4vdh",
         "type": "paragraph"
     },
