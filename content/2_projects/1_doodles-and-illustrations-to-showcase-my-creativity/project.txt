@@ -14,7 +14,7 @@ Clients: NRC
 
 ----
 
-Deliverables: Sprint 1 - Sprint 2 - Sprint 3 - Sprint 4
+Deliverables: 
 
 ----
 
@@ -23,7 +23,7 @@ Text:
 [
     {
         "attrs": [],
-        "content": "<strong>Het probleem </strong>",
+        "content": "<strong>Het probleem</strong>",
         "id": "_x7qcqkayw",
         "type": "paragraph"
     },
@@ -41,10 +41,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/empatize.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/484332670-1587751164/empatize.png",
-            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/empatize.png",
-            "ratio": 3.33889816360600999445296110934577882289886474609375,
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/empatize_nrc.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/546318899-1588336510/empatize_nrc.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/empatize_nrc.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
             "caption": ""
         },
         "content": "",
@@ -77,10 +77,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/ideate.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2280180623-1587751180/ideate.png",
-            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/ideate.png",
-            "ratio": 1.6373311502251330917800942188478074967861175537109375,
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/ideate_nrc.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/113540997-1588336560/ideate_nrc.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/ideate_nrc.png",
+            "ratio": 1.3746135348677430698671741993166506290435791015625,
             "caption": ""
         },
         "content": "<br>Ideation",
@@ -101,10 +101,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/prototype.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/4111192549-1587751233/prototype.png",
-            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/prototype.png",
-            "ratio": 1.4229676961306354510128358015208505094051361083984375,
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/prototype_nrc.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2293694075-1588336626/prototype_nrc.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/prototype_nrc.png",
+            "ratio": 1.3746135348677430698671741993166506290435791015625,
             "caption": ""
         },
         "content": "",
@@ -125,14 +125,14 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/test.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/702945454-1587751252/test.png",
-            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/test.png",
-            "ratio": 3.726595249184909253159503350616432726383209228515625,
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/test_nrc.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1047044054-1588336667/test_nrc.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/test_nrc.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
             "caption": ""
         },
         "content": "",
-        "id": "_148mzgx0f",
+        "id": "_r3f6y3wcj",
         "type": "image"
     },
     {
@@ -182,10 +182,10 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/resultaat.png",
-            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1582292111-1587751271/resultaat.png",
-            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/resultaat.png",
-            "ratio": 1.3332777870354941551767069540801458060741424560546875,
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/resultaat_nrc.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/31754798-1588336688/resultaat_nrc.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/resultaat_nrc.png",
+            "ratio": 1.3336110648225296682056750796618871390819549560546875,
             "caption": ""
         },
         "content": "",

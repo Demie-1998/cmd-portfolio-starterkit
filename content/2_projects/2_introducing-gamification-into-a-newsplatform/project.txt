@@ -64,6 +64,14 @@ Text:
         "type": "image"
     },
     {
+        "attrs": {
+            "language": "html"
+        },
+        "content": "",
+        "id": "_q8y7ip683",
+        "type": "code"
+    },
+    {
         "attrs": [],
         "content": "",
         "id": "_o2z2s809o",
