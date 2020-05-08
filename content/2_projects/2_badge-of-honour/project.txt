@@ -1,0 +1,190 @@
+Title: Badge of Honour
+
+----
+
+Roles: Interaction Design, Visual Design, Usability Research & Testing
+
+----
+
+Duration: September 2019 - Januari 2020
+
+----
+
+Clients: Politie Rotterdam
+
+----
+
+Deliverables: Iteratie 1, Iteratie 2
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Vraagstuk</strong>",
+        "id": "_mw0ezmn3b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Van de politie Rotterdam Rijnmond Noord kwam een vraag. Hoe kan specifieke expertise van politieagenten worden gedeeld en gevonden, zodat we een super team kunnen samenstellen?",
+        "id": "_1qsbfm4cz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+badge-of-honour/files/proces.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/badge-of-honour/2734482603-1588339461/proces.png",
+            "id": "projects/badge-of-honour/proces.png",
+            "ratio": 2.97508367422833774895707392715848982334136962890625,
+            "caption": ""
+        },
+        "content": "<br>Veel agenten hebben vaak, naast hun standaard skill set, extra kennis of vaardigheden over bepaalde onderwerpen die niet per se betrekking heeft op hun reguliere taakuitoefening. Momenteel worden deze vaardigheden onvoldoende benut doordat deze niet bekend zijn. Op het moment dat deze vaardigheden een cruciale rol zouden kunnen spelen binnen een lopend onderzoek, zijn de agenten met de juiste vaardigheden lastig te vinden en worden deze dus niet of te laat ingezet. Hierdoor worden de speciale vaardigheden van de agent niet benut, erkend of gewaardeerd<br>",
+        "id": "_6anhekc4i",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Veel agenten hebben vaak, naast hun standaard skill set, extra kennis of vaardigheden over bepaalde onderwerpen die niet per se betrekking heeft op hun reguliere taakuitoefening. Momenteel worden deze vaardigheden onvoldoende benut doordat deze niet bekend zijn. Op het moment dat deze vaardigheden een cruciale rol zouden kunnen spelen binnen een lopend onderzoek, zijn de agenten met de juiste vaardigheden lastig te vinden en worden deze dus niet of te laat ingezet. Hierdoor worden de speciale vaardigheden van de agent niet benut, erkend of gewaardeerd",
+        "id": "_jhfph42vu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><br></strong>Mijn taak was dan ook om een passende oplossing te vinden voor dit vraagstuk. Vervolgens hier onderzoek naar te doen en dan tot mijn eigen ontwerp vraag te komen. Doordat dit een individueel project was, was het ook aan mij om alle stappen van het proces zelf in te delen",
+        "id": "_ya389t6w7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+badge-of-honour/files/empatize_politie.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/badge-of-honour/3240117571-1588339016/empatize_politie.png",
+            "id": "projects/badge-of-honour/empatize_politie.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
+            "caption": ""
+        },
+        "content": "<strong>Empathize</strong>",
+        "id": "_vhsd7i9h9",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Empathize</strong><br>Om me in te leven in de doelgroep heb ik verschillende interviews gehouden, waardoor ik er achter kon komen waar hun pijnpunten lagen. Zo kwam ik er achter dat veel agenten cursussen en/of opleidingen hebben gedaan waar ze gepassioneerd over zijn, maar dat ze er niet voor ingezet worden, omdat niemand er van weet. Dit vinden ze heel vervelend en ze hebben hierdoor het gevoel dat ze meer zouden kunnen betekenen op hun werk, maar dit door onwetendheid dus niet benut wordt.",
+        "id": "_gges9wufd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_22qgh9ud2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Define</strong>",
+        "id": "_v7syn8vdl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Deze interviews gaven mij het idee, dat er een voordehand liggende oplossing was, namelijk een database. Deze wordt echter niet gebruikt omdat de agenten hun gegevens en vaardigheden niet in de daarvoor bestemde database zetten. Hier mist dus een stuk motivatie vanuit de agenten en daarom heb ik mijn ontwerpvraag aangepast: Hoe kan ik de agent in blauw, gemotiveerd krijgen om zijn/haar informatie en vaardigheden te delen?<br><br>",
+        "id": "_G5NGmlmLj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+badge-of-honour/files/ideate_politie_3.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/badge-of-honour/2903296917-1588339058/ideate_politie_3.png",
+            "id": "projects/badge-of-honour/ideate_politie_3.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_upl8bzeo2",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ideate</strong><br>Door het maken van een insight wall en insight bubbel (mijn eigen verzonnen techniek) had ik alle inzichten samengevat en kon ik hiermee idee\u00ebn gaan genereren. Daarbij heb ik zelf verschillende creatieve technieken uitgevoerd en later ook nog een creatieve sessie gehouden met de politie zelf. Hierbij heb ik ze een trots schild laten tekenen. Hieruit bleek dat ze veel tekenden in medailles en emblemen in tegenstelling tot gewone illustraties. Zij zien dus kennelijk trots, door erkenning van wat je allemaal kunt. Door de verschillende creatieve methodes die ik heb gedaan, ben ik uiteindelijk tot een concept gekomen.<br><br>",
+        "id": "_8y472b8vi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+badge-of-honour/files/prototype_politie_3.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/badge-of-honour/613381187-1588339078/prototype_politie_3.png",
+            "id": "projects/badge-of-honour/prototype_politie_3.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
+            "caption": ""
+        },
+        "content": "<strong><br>Ideat</strong><br><strong>Door het maken van een insight wall en insight bubbel (mijn eigen verzonnen techniek) had ik alle inzichten samengevat en kon ik hiermee idee\u00ebn gaan genereren. Daarbij heb ik zelf verschillende creatieve technieken uitgevoerd en later ook nog een creatieve sessie gehouden met de politie zelf. Hierbij heb ik ze een trots schild laten tekenen. Hieruit bleek dat ze veel tekenden in medailles en emblemen in tegenstelling tot gewone illustraties. Zij zien dus kennelijk trots, door erkenning van wat je allemaal kunt. Door de verschillende creatieve methodes die ik heb gedaan, ben ik uiteindelijk tot een concept gekomen.</strong><br><br><strong><br>Ideat</strong><br>Door het maken van een insight wall en insight bubbel (mijn eigen verzonnen techniek) had ik alle inzichten samengevat en kon ik hiermee idee\u00ebn gaan genereren. Daarbij heb ik zelf verschillende creatieve technieken uitgevoerd en later ook nog een creatieve sessie gehouden met de politie zelf. Hierbij heb ik ze een trots schild laten tekenen. Hieruit bleek dat ze veel tekenden in medailles en emblemen in tegenstelling tot gewone illustraties. Zij zien dus kennelijk trots, door erkenning van wat je allemaal kunt. Door de verschillende creatieve methodes die ik heb gedaan, ben ik uiteindelijk tot een concept gekomen.<br><br>",
+        "id": "_cbcfcdswa",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_38hd4lcqu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Prototype</strong><br>De politie hecht veel waarden aan rangen. Dit wordt momenteel aangegeven door rangaanduiding op de schouder. Hierop verder gaand was mijn idee om het delen van de data meer te motiveren, het inspelen op de intrinsieke motivatie. Dit wordt excentriek aangegeven door mijn bedachte badge die een gevoel van zelf actualisering op kan wekken. Het visueel maken van expertises en vaardigheden van een agent door middel van 10 \u00e0 15 hoofd-badges, gebeurt doordat deze gekleurd en dus herkenbaar zijn. De kleuren worden gedragen op hun id kaart of uniform. De politie kan dit uiteraard zelf kiezen. Dit laat dan in \u00e9\u00e9n oogopslag zien wie, welke expertises heeft. Deze badges zijn daarnaast gekoppeld aan een app, waarin staat wat alle badges betekenen en de specifieke expertises die daar bij horen. Tevens kun je via deze app ook per badge zoeken wie bij jou in de buurt de gevraagde expertises heeft. In deze app wordt dan de persoon zichtbaar met zijn of haar contactgegevens, zodat je de gewenste persoon in zou kunnen schakelen.",
+        "id": "_p4sq0k2jz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+badge-of-honour/files/test_politie_3.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/badge-of-honour/570909830-1588339214/test_politie_3.png",
+            "id": "projects/badge-of-honour/test_politie_3.png",
+            "ratio": 2.2542945649112926531643097405321896076202392578125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_q59nvl3ur",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Test</strong><br>Nu ik mijn concept had staan wilde ik weten of mijn concept zou werken in de context van het het agentschap. Het is wel leuk om allemaal badges te dragen, maar mogen de burgers dit altijd wel zien? Is het wellicht gevaarlijk om je skills op display te hebben? Wat gebeurd er als er een agent in burger is en dus niet zijn uniform aan heeft?Mijn concept heb ik aan Dick Wendels voorgelegd en heb dit gedaan door middel van een scenario te schetsen. Dit heb ik mondeling gedaan, omdat ik geen tijd had om dit fysiek uit te werken. Ook heb ik na al mijn interviews de conclusie getrokken dat de politie niet altijd tijd heeft om iets op een app op te zoeken en ik vertelde dat door het visueel maken van de skills er op een sc\u00e8ne in \u00e9\u00e9n oogopslag te zien is wie wat zou kunnen. Hij gaf me de tip dat agenten in burger altijd hun id kaart bij zich hebben. Dus als de badges niet op het uniform te zien zouden kunnen zijn, ze ook daar op kunnen worden gezet. Daarnaast gaf hij aan dat door in te spelen op het gevoel van de trots van een agent, ze wel degelijk gemotiveerd zijn om zich te ontwikkelen. Hij zou dat zeker doen zei hij zelf en zou de badges met veel trots dragen. Wat dus een bevestiging was mijn mijn hypothese en bovendien de oplossing van mijn ontwerpvraag. <br>",
+        "id": "_sowzehxkx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Reflectie</strong><br>Terugkijkend op het ontwerpproces, heb ik uiteindelijk een ander proces doorlopen dan ik in mijn plan van aanpak had beschreven. Dit kwam omdat ik ontdekte dat het vraagstuk dat de politie bij ons had neergelegd niet was waar het probleem zat. Hierdoor werd mijn gehele ingedeelde proces omgegooid. Als gevolg hiervan ben Ik meer onderzoek gaan doen dan Ik in de eerst instantie had bedacht en kwam ik er tijdens die interviews achter dat ik hier veel te veel tijd in had gestoken. Het gevolg hiervan was dat ik te veel informatie in mijn hoofd had en ben vastgelopen. Door uiteindelijk wat in mijn hoofd zit visueel op papier te zetten heb ik het overzicht terug gekregen en ben ik doorgegaan met het proces.Van dit proces heb ik dus heel veel geleerd.",
+        "id": "_8q2f58wqs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+badge-of-honour/files/resultaat_politie_4.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/badge-of-honour/1230934078-1588339262/resultaat_politie_4.png",
+            "id": "projects/badge-of-honour/resultaat_politie_4.png",
+            "ratio": 1.242621932277104601638484382419846951961517333984375,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_gkoott56d",
+        "type": "image"
+    }
+]
+
+----
+
+Textarea:
+
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Research
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Anything else
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.

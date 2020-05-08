@@ -1,0 +1,36 @@
+Title: Naam en Faam Social media motion design
+
+----
+
+Date: 2019-11-06
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Om de social media van mijn stage bedrijf up to date te houden voor bestaande en potenti\u00eble klanten, heb ik verschillende post gemaakt.<br>",
+        "id": "_zzygt0oht",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://youtu.be/XYdw6vY85h8",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_fq3hb7nmv",
+        "type": "video"
+    },
+    {
+        "attrs": {
+            "src": "https://youtu.be/WuUKPFDSq8U",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_qvlb6k8zb",
+        "type": "video"
+    }
+]

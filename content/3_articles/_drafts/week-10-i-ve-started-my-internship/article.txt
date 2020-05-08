@@ -1,0 +1,58 @@
+Title: Portfolio pilot reflectie
+
+----
+
+Date: 2020-04-17
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Wat heb ik geleerd?",
+        "id": "_suQkMhkoc",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Er was onder de studenten veel onwetendheid over het maken van een portfolio. Tuurlijk je hebt Wix, Webflow en Wordpress maar, als je zelf iets zou willen maken was hier vrij weinig over bekend. De docenten hebben toen besloten om een nieuw keuzevak aan te bieden. Tijdens dit vak leer je coderen en je leert een portfolio te maken. We hebben eerst geleerd hoe we onze eigen server moesten maken en iets over vorken, klonen en allemaal taal waar ik eigenlijk niks van begreep. De lessen zelf waren simpel en duidelijk je moest wel wat kennis hebben van html wat ik niet had. Hier was ik me ook niet van bewust op het moment dat ik me inschreef voor dit keuzevak. Iets voor de voorjaarsvakantie hebben de docenten in de les verteld dat de leerlingen die niet echt verstand hadden van html(ik dus) codeacademy moesten volgen dit zou ons de basis html kennis geven. Ik was 100% van plan dit te doen in de vakantie maar helaas is mijn hondje toen overleden. Dit voelde voor mij alsof ik mijn beste vriend verloren was sterker nog, een stukje van mezelf. Zoals veel mensen weten ben ik iemand die altijd bezig is, vol met energie zit en goede idee\u00ebn heeft. Echter heeft het verlies van mijn hond mij zo ingesteld dat ik eigenlijk nergens meer zin in had. Toen kwam de coronacrisis. Aan het begin vond ik het nergens op slaan die online lessen. Ik dacht: hoe leer je nou iets als de docent op je scherm staat. De lessen door goede voorbereiding toch duidelijk overgekomen. Ik had nog steeds moeite met het begrijpen van de code aangezien ik nooit code academy heb gevolgd. Susanne heeft mij toen overgehaald om dit toch te gaan volgen en beetje bij beetje begon ik te begrijpen waar ze het in de filmpjes over hadden. Met de hulp van Susanne en de docenten heb ik hierna redelijk wat aanpassingen kunnen doen aan mijn site.<br><br>Ik heb zeker wel wat geleerd uit de lessen, voornamelijk door simpelweg aan de slag te gaan en door specifieke feedback te vragen. Dit zal ongetwijfeld niet de bedoeling van de les geweest zijn maar, ik vond dit fijner werken dan het kijken van filmpjes. Door zelf dingen te gaan aanpassen en hier feedback over te ontvangen begon ik steeds meer code te begrijpen. Code academy heeft mij veel geholpen met het begrijpen van hoe code werkt. Het template begon me soms zelfs te irriteren omdat ik niet alles kon aanpassen zoals ik dat wilde of niet wist hoe ik dit moest doen. Het meest lastige van dit hele vak was en is nog steeds de code. Ik ben een vormgevers en ik wil de visie die ik in mijn hoofd heb op mijn scherm kunnen laten zien. Dit keuzevak heeft mij geleerd dat ik mijn beperkingen moet kennen. Ja het is leuk als iets er heel gaaf uit ziet of animaties heeft maar, als je aan een stage bedrijf kunt laten zien dat je zelf gecodeerd hebt verteld dit meer over mijzelf dan als dit er mooi uit zou zien. Terugkijkend op dit keuzevak had ik gewild dat ik eerder was begonnen met de code leren dan was ik nu minder beperkt in mijn uitwerking. Echter ben ik trots op wat ik nu heb gemaakt. Coderen zal ik waarschijnlijk nooit het meest boeiende vak vinden maar, ik kan het nu tenminste wel.<br><br>Tips",
+        "id": "_3vq7oou3z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Een tip die ik mee wil geven is: laat iedereen codeacademy doen desnoods in de les of als huiswerk maar dit heeft mij enorm geholpen.",
+        "id": "_rffHV3ffN",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Misschien zou dit keuzevak eind jaar 1 al aangeboden kunnen worden met een diepergaande versie in jaar 2 wat meer de styling aanpakt desnoods wordt het een deel van het curriculum dat zou ik nog niet eens zo\u2019n gek idee vinden",
+        "id": "_vwxEwTKDu",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br>Tops",
+        "id": "_rz421cDgJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dit wordt hopelijk niet elk jaar herhaald maar de manier waarop jullie de lessen hebben voortgezet tijdens corona vind ik heel goed.",
+        "id": "_63WaiBFCz",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Het template is een mooie basis om van te beginnen en code te begrijpen ik snap ook dat in de tijd die we hadden het niet haalbaar was op een site vanuit niks op te bouwen.",
+        "id": "_hNKoucpiq",
+        "type": "ul"
+    }
+]
+
+----
+
+Thumbnail: 

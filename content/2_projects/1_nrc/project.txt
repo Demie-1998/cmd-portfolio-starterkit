@@ -1,0 +1,196 @@
+Title: NRC
+
+----
+
+Roles: research, Ideation, Testing, Motion design, Visual design
+
+----
+
+Duration: september 2019 - februari 2020
+
+----
+
+Clients: NRC
+
+----
+
+Deliverables: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Het probleem</strong>",
+        "id": "_x7qcqkayw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Momenteel valt 11% van de nieuwe abonnees van het NRC tijdens de eerste 14 dagen af. Ook worden de digitale middelen amper gebruikt",
+        "id": "_j07ow5o5w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik moest met mijn team een oplossing bedenken voor dit probleem. Deze periode heb ik de rol van teamcaptain op me genomen. Het was dus mijn taak om iedereen aan te sturen, het overzicht te bewaren en te zorgen dat iedereen zich aan de afspraken/deadlines hield.",
+        "id": "_d3vzonps0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+nrc/files/empatize_nrc_1.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/nrc/1630629390-1588932277/empatize_nrc_1.png",
+            "id": "projects/nrc/empatize_nrc_1.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_rb0c5bubv",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Empatize</strong>",
+        "id": "_fmril5l6l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Om meer inzicht te krijgen in de doelgroep heb ik fieldresearch, deskresearch, interviews en twee enqu\u00eates uitgevoerd. Al deze bevindingen heb ik toen samen gebracht op de insight wall en hier heb ik met mijn team verbanden in gezocht. <br>",
+        "id": "_3yrcxlq2a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Define</strong>",
+        "id": "_fqfz106lr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Al snel viel ons op dat er minder vrouwelijke NRC lezers waren en dat de digitale middelen niet werden gebruikt doordat de abonnees niet wisten dat deze er waren. Wij zijn er achter gekomen dat de behoeftes die zij hebben vooral gaan om tijdbesparende oplossingen, als het neerkomt op het consumeren van nieuws. Zo gaven zij aan graag meer het nieuws te willen consumeren, maar zij hier geen tijd voor hadden. Aan de hand van de nieuwe inzichten konden we een nieuwe ontwerpvraag formuleren. Namelijk: hoe kunnen we er voor zorgen dat de doelgroep het nieuws kan consumeren zonder hier te veel extra tijd aan kwijt te zijn.",
+        "id": "_whx9dpxng",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/nrc/113540997-1588336560/ideate_nrc.png",
+            "id": "projects/nrc/ideate_nrc.png",
+            "ratio": 1.3746135348677430698671741993166506290435791015625,
+            "caption": ""
+        },
+        "content": "<br>Ideation",
+        "id": "_boe1qe1u8",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ideate</strong>",
+        "id": "_aq1a7h4xx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Om tot een idee te komen heb ik verschillende creatieve technieken ingezet. Zo heb ik de \u201cwat als\u201d techniek ingezet. Hieruit kwamen hele abstracte idee\u00ebn naar voren. Uiteindelijk hebben we ook een\u201d fix your darling\u201d uitgevoerd. Halverwege ons proces kwamen we er achter, dat ons concept niet veel toegevoegde waarde had voor de doelgroep. We hebben toen besloten om meer interviews te houden en dit in combinatie met de concept test had nieuwe inzichten opgeleverd. Met deze inzichten zijn we gaan brainstormen en uiteindelijk tot ons nieuwe concept gekomen. Vervolgens heb ik \u201cuser stories\u201d gemaakt om de waarden voor onze doelgroep concreet op te schijven en de behoefte van de eindgebruiker niet uit het oog te verliezen.",
+        "id": "_i8e25gmm0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/nrc/2293694075-1588336626/prototype_nrc.png",
+            "id": "projects/nrc/prototype_nrc.png",
+            "ratio": 1.3746135348677430698671741993166506290435791015625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_zoyknjel8",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Prototype</strong>",
+        "id": "_0kwqs8ndu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Als eerst heb ik een \u201cbraindump\u201d gedaan en hier vervolgens een \u201cuser story\u201d map van gemaakt. Zo waren alle functies binnen de app duidelijk en kon ik gaan beginnen met prototypen. Als eerste ben Ik begonnen met schetsen en het testen van bepaalde elementen binnen mijn schets. Vervolgens heb ik deze aangepast en steeds verder uitgewerkt. Toen ik de app in figma clickable ging maken heb ik eerst een flowchart gemaakt, omdat Ik de lead designer was van de app en heb hiervoor dan ook ook een design system opgesteld. Uiteindelijk heb ik hiermee ons high-fid prototype uitgewerkt. <br>",
+        "id": "_8e2x3z9g5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/nrc/1047044054-1588336667/test_nrc.png",
+            "id": "projects/nrc/test_nrc.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_r3f6y3wcj",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Test</strong>",
+        "id": "_119scrysx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Tijdens verschilende fase van mijn proces heb ik getest. Ons eerste concept heb ik getest door middel van een storyboard. Vervolgens heb ik getest met de schetsen van de app. Hiermee heb ik zowel een user flow test gedaan als specifieke onderdelen getest. E\u00e9n van de doelen van de app was het sneller vindbaar maken van digitale middelen. Dit hebben wij getest door de gebruiker in de huidige NRC app en die van ons dezelfde functie te laten zoeken en vervolgens te timen hoe lang dit duurde. Op de eindexpo wilden we feedback van het NRC zelf. Hiervoor heb ik een animatie gemaakt dat ons volledige concept uitlegt.",
+        "id": "_72n4fgsmv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://youtu.be/kUrtbEHnvGY",
+            "caption": "",
+            "css": "Class=\"NRC\""
+        },
+        "content": "",
+        "id": "_bqekdcz00",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Resultaat</strong>",
+        "id": "_cu41uqurz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Onze oplossing was uiteindelijk niet heel extravagant, maar een paar simpele aanpassingen aan de app die hun vraagstuk zou oplossen. Vandaar ook NRC +. <br>",
+        "id": "_cs022js5o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Reflectie</strong>",
+        "id": "_uf8c78j8s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dit proces heeft heel veel ups en down gekend. Uiteindelijk ben ik blij dat we toch de tijd hebben genomen om de meerwaarde te cre\u00ebren voor onze doelgroep. Dit in plaats van gewoon verder gaan, omdat we anders achter op schema zouden lopen. We hebben alsnog de deadline gehaald. In ons team hadden we niet een sterke planner en dit is iets waar ik mezelf wel in zou willen verbeteren. Duidelijk meer dan een week vooruit plannen dus.. <br><br><br><br><br>",
+        "id": "_tiia94de9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/nrc/31754798-1588336688/resultaat_nrc.png",
+            "id": "projects/nrc/resultaat_nrc.png",
+            "ratio": 1.3336110648225296682056750796618871390819549560546875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_anrirfc6b",
+        "type": "image"
+    }
+]
+
+----
+
+Textarea: 

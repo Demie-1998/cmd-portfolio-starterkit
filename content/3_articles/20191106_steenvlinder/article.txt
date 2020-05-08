@@ -1,0 +1,57 @@
+Title: Steenvlinder Motion design
+
+----
+
+Date: 2019-11-06
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Tijdens mijn stage bij Naam en Faam kreeg ik de opdracht om voor Steenvlinder informatieve animaties te maken over het bouwen en kopen van een kavel.",
+        "id": "_jt05pkk66",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=BR6WmA_keYg&list=PL4NwdlUmZne0z06CTeI4mJhYjFQJmc5Bo&index=3",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_25i5jy2kq",
+        "type": "video"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=c4g8WLvrI6Q&list=PL4NwdlUmZne0z06CTeI4mJhYjFQJmc5Bo&index=2",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_xt8g0v0io",
+        "type": "video"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=DgbEMz50s6w&list=PL4NwdlUmZne0z06CTeI4mJhYjFQJmc5Bo&index=1",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_tjkue51ch",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_e066mo6uz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_8m4lrml8k",
+        "type": "paragraph"
+    }
+]

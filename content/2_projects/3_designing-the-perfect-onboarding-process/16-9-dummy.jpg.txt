@@ -1,9 +1,0 @@
-Caption: 
-
-----
-
-Template: thumbnail
-
-----
-
-Sort: 1

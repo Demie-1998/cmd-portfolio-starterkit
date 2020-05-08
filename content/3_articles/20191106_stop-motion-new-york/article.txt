@@ -1,0 +1,42 @@
+Title: Stop motion New York
+
+----
+
+Date: 2019-11-06
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Stop motion New York</strong>",
+        "id": "_t366k5nhn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Op het Grafisch Lyceum Rotterdam had ik de opdracht om zelf een boek te maken, te binden en hier vervolgens een \u201cstop motion\u201d mee te maken.",
+        "id": "_bx4tk5uwx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Helaas lukt het mij niet op de video te uploaden Kopieer deze link om hem alsnog te bekijken:</strong>",
+        "id": "_whc1kym7a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "https://www.youtube.com/watch?v=XHi1YYJCncI",
+        "id": "_72hmkj7du",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_bsupdh0ho",
+        "type": "paragraph"
+    }
+]

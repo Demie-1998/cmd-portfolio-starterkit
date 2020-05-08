@@ -1,0 +1,129 @@
+Title: E-Luxx
+
+----
+
+Roles: Interaction designer, Teamcaptain, Visual designer
+
+----
+
+Duration: November 2018 - Maart 2019
+
+----
+
+Clients: Online department
+
+----
+
+Deliverables: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Onze opdrachtgever, Online Departement, gaf ons de volgende vraag:<br>\u201cHoe kunnen wij er voor zorgen dat ouderen langer thuis blijven wonen door middel van mantelzorgers?\u201d. Dit is een hele brede en abstracte vraagstelling, <br>",
+        "id": "_172m9gtaw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "omdat het natuurlijk een actueel maatschappelijk probleem is. De vraag is dus nu:\u201d Hoe kunnen wij als CMD'ers hier een oplossing voor verzinnen?\u201d.",
+        "id": "_jhpdxi2zb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Empatize</strong><br>Om me meer te verdiepen in de doelgroep en om de huidige situatie beter te begrijpen heb ik deskresearch, enqu\u00eates en een interview in het bejaardenhuis Golden Years gehouden.<br>",
+        "id": "_18m5szkvs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Define</strong><br>Door mijn onderzoek naar de huidige situatie en of er concrete plannen zijn van de overheid om dit te verbeteren, kwam ik erachter dat overspanning bij mantelzorgers een groot probleem is. Ook vergrijzing speelt een grote rol in deze vraagstelling. Zo bleek dat er steeds meer 85 plussers zijn in Nederland en dat dit naar verwachting de komende jaren met een groot aantal toeneemt. Doordat er zo veel 85 plussers zijn wordt de mantelzorg steeds minder. Per 85 plusser zijn er dan nog maar vijf personen die mantelzorg zouden kunnen verlenen.<br>",
+        "id": "_1rs603cuf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/e-luxx/1950585036-1588767575/e-luxx_ideate.png",
+            "id": "projects/e-luxx/e-luxx_ideate.png",
+            "ratio": 1.3746135348677430698671741993166506290435791015625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_2jla1k1pn",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ideat</strong><br>Al deze inzichten hebben we toen op de \u201cinsight wall\u201d geplakt en hier heb ik ook een \u201cpersona\u201d van gemaakt. Vervolgens zijn we creatieve technieken uit gaan voeren om idee\u00ebn te generen. Zo hebben we een \u201cbraindump\u201d gedaan, de 101 IDEEEN techniek, en negatief brainstormen toegepast . Tijdens deze fase hebben we ook prototypes gemaakt, zodat we leerden fysieke prototypes te maken voor later in het proces. We hebben alle idee\u00ebn die hier uitkomen geconvergeerd door middel van de cocd box. <br>",
+        "id": "_pu2ydiyt2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+e-luxx/files/e-luxx_prototype_2.png",
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/e-luxx/847192717-1588928817/e-luxx_prototype_2.png",
+            "id": "projects/e-luxx/e-luxx_prototype_2.png",
+            "ratio": 1.3746135348677430698671741993166506290435791015625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_sgw7pry0n",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Prototype</strong><br>Toen we ons concept uit gingen werken heb ik nog wat aanvullend onderzoek gedaan over wearables. Dit omdat het een groot gedeelte van ons concept is en we hier vrij weinig over wisten . Toen we de app wilden maken heb ik eerst cardsorting toegepast. Het doel hiervan was de navigatie bepalen en kijken wat het best werkt voor de gebruiker. Van deze onderzoeksresultaten heb ik vervolgens een \u201cflowchart\u201d gemaakt. Ik heb een open cardsorting gedaan, waarbij de testpersonen zelf alles konden sorteren. Hierdoor had ik 0% invloed op de uitkomst. Vervolgens ben ik itererend wireframes gaan maken. Om de \u201chigh fid\u201d app uit te werken heb ik een \u201cstyle guide\u201d gemaakt.<br>",
+        "id": "_zh6cdsoxu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/e-luxx/3020184311-1588767625/e-luxx_test.png",
+            "id": "projects/e-luxx/e-luxx_test.png",
+            "ratio": 2.303597122302158073381406211410649120807647705078125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_fkffk0e0v",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Test</strong><br>Een groot deel van ons concept had te maken met het prikkelen van de zintuigen door middel van licht. Om te testen of dit daadwerkelijk helpt met rust geven, zijn we een licht test gaan doen. Nadat ik dit in een testplan had opgesteld, zijn wij in de studio een prototype van onze kamer gaan maken. Hierin hebben we testpersonen een rebus laten oplossen in verschillende tinten licht. Dit om te kijken of bepaalde tinten daadwerkelijk rustgevend werken. Mijn teamgenoten hebben de wireframes getest en deze resultaten aan mij doorgegeven, zodat ik de \u201chigh fid\u201d prototype kon maken. Ook heb ik een storyboard gemaakt om op de eindexpositie beter te laten zien hoe ons product in zijn werking gaat.<br>",
+        "id": "_0wsa5dsf9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Resultaat</strong><br>Door de idee\u00ebn van een \u201cwearable\u201d, een app en een smart kamer samen te voegen zijn we gekomen tot de E-luxx.",
+        "id": "_klpl0jskb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Door de ontspanning en de inspanning op elkaar af te stemmen en de mantelzorger inzicht te geven in de huidige situatie, geeft de E-Luxx tips over hoe daar verbetering in gebracht kan worden. E-luxx speelt in op je zintuigen en geeft mantelzorgers de rust en ontspanning die ze nodig hebben, zonder dat ze hier fysiek iets voor hoeven te doen. Wij willen de mantelzorger geen stress geven doordat ze constant iets bij moeten houden. Het enige wat je hoeft te doen is het E-luxx pakket te installeren en de app te downloaden. De rest volgt dan vanzelf. In het E-luxx pakket vinden ze een armband. Deze armband die ze gewoon kunnen dragen, koppelen ze aan de app. Deze meet aan de hand van de hartslag de gemoedstoestand van de mantelzorger en berekend over de gehele dag, wat zij nodig hebben om de balans tussen inspanning en ontspanning te verkrijgen. Op het moment dat de mantelzorger thuiskomt, zal zijn huis zich gelijk aanpassen door middel van licht tinten en geluid, die gekoppeld zijn aan zijn gemoedstoestand gedurende de dag. Ze stappen dus als het ware de rust in, waardoor ze gelijk worden gekalmeerd en de stress wordt weggenomen. <br>",
+        "id": "_qbkw2i0x2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Reflectie </strong><br>Natuurlijk werkt ons concept nog niet voor de volle 100 procent. We hadden er graag meer tijd voor gehad, dan hadden we het graag uit willen breiden door bijvoorbeeld naast de hartslag, ook de ademhaling en het zweet percentage te meten. Dit om een nog accuratere meting te krijgen en daardoor we nog beter zouden kunnen inspelen op het herstellen van de balans tussen inspanning en ontspanning. Over het algemeen vind ik dat we een sterk idee hebben gemaakt. Vooral het onbewuste aspect zorgt ervoor dat de mantelzorger geen extra stress krijgt van ons product . Je moet echter wel een pakket kopen en dit installeren. Hier zou ik graag een concept voor gevonden hebben. Bijvoorbeeld door alles in \u00e9\u00e9n machine te verwerken die je gewoon kunt neerzetten en dan ben je klaar. Het mooiste deel aan ons concept vind ik, dat het niet perse tastbaar hoeft te zijn. Natuurlijk hebben we de app, maar de kamer is niet tastbaar. Het gevoel dat je hierbij krijgt is ook niet echt tastbaar. Echter door het prikkelen van de zintuigen kalmeren we mantelzorgers toch op een manier die we met alleen tips en tricks niet bereiken zouden kunnen. <br><br>",
+        "id": "_ysc1ifjrr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "http://192.168.64.2/cmd-portfolio-starterkit/media/pages/projects/e-luxx/886575386-1588767701/e-luxx_resultaat.png",
+            "id": "projects/e-luxx/e-luxx_resultaat.png",
+            "ratio": 1.291478373143963853664217822370119392871856689453125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_6vqd7pk9y",
+        "type": "image"
+    }
+]
